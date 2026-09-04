@@ -7,7 +7,7 @@ about:
   head: 2a222de
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:55:01Z
+  collectedAt: 2026-09-04T20:44:47Z
 timeline:
   created: 2012-06-18
   lastCommit: 2025-09-11
@@ -87,6 +87,64 @@ total:
   openIssue: 59
   commit: 1132
 ---
+path: /home/runner/.x-repo/github.com/joeferner/redis-commander
+collectedAt: 2026-09-04T20:44:49Z
+loc:
+  Json:
+    code: 37121
+    comments: 0
+    blanks: 0
+    files: 6
+  JavaScript:
+    code: 6983
+    comments: 1054
+    blanks: 1165
+    files: 22
+  Css:
+    code: 6648
+    comments: 47
+    blanks: 1046
+    files: 5
+  Yaml:
+    code: 732
+    comments: 143
+    blanks: 30
+    files: 21
+  Sh:
+    code: 381
+    comments: 125
+    blanks: 111
+    files: 3
+  Pan:
+    code: 99
+    comments: 0
+    blanks: 9
+    files: 2
+  Dockerfile:
+    code: 29
+    comments: 6
+    blanks: 9
+    files: 1
+  Bash:
+    code: 4
+    comments: 2
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1142
+    blanks: 299
+    files: 11
+  Text:
+    code: 0
+    comments: 21
+    blanks: 0
+    files: 1
+total:
+  code: 52195
+  comments: 2551
+  blanks: 2670
+  files: 73
 ---
 date: "2026-08-24"
 repo:
