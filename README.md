@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,003 · **Forks**: 501 · **Open issues**: 348 · **Contributors**: 88
+- **Stars**: 4,003 · **Forks**: 501 · **Open issues**: 349 · **Contributors**: 88
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 215 · **Open PRs**: 16 · **Closed issues**: 289 · **Open issues**: 59 · **Commits**: 1132
+- **Releases**: 0 · **Merged PRs**: 215 · **Open PRs**: 16 · **Closed issues**: 289 · **Open issues**: 60 · **Commits**: 1132
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 360d | 2025-10-31 | 0 | 0 | 6 | 0 | 2 | 0 |
-| last720d | 2024-11-05 | 0 | 2 | 10 | 6 | 13 | 20 |
+| 30d | 2026-09-27 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-28 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-07-29 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-30 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 360d | 2025-11-01 | 0 | 0 | 6 | 0 | 3 | 0 |
+| last720d | 2024-11-06 | 0 | 2 | 10 | 6 | 14 | 20 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for redis-commander lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:36:01Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:00:10Z._
