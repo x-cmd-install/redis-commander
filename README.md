@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,002 · **Forks**: 501 · **Open issues**: 349 · **Contributors**: 88
+- **Stars**: 4,003 · **Forks**: 501 · **Open issues**: 349 · **Contributors**: 88
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-01 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-05-03 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 360d | 2025-11-04 | 0 | 0 | 6 | 0 | 3 | 0 |
-| last720d | 2024-11-09 | 0 | 2 | 10 | 6 | 13 | 20 |
+| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-01 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-02 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-05-04 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 360d | 2025-11-05 | 0 | 0 | 5 | 0 | 3 | 0 |
+| last720d | 2024-11-10 | 0 | 2 | 10 | 6 | 13 | 20 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for redis-commander lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:44:40Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:39:50Z._
